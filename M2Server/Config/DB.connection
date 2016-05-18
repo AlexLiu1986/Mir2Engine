@@ -1,0 +1,4 @@
+﻿<!--数据库链接配置文件，需把链接字符串修改自己的地址-->
+<connectionStrings>
+  <add name="Mir2" connectionString="server=10.10.0.117;uid=sa;pwd=Mi*6Ir$7Ts%3Gz%6Dy#3;database=Mir2" />
+</connectionStrings>

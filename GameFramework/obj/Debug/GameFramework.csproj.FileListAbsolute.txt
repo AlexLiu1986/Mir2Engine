@@ -1,0 +1,5 @@
+C:\Users\YY\Downloads\gameofmir\GameFramework\bin\Debug\GameFramework.dll
+C:\Users\YY\Downloads\gameofmir\GameFramework\bin\Debug\GameFramework.pdb
+C:\Users\YY\Downloads\gameofmir\GameFramework\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\YY\Downloads\gameofmir\GameFramework\obj\Debug\GameFramework.dll
+C:\Users\YY\Downloads\gameofmir\GameFramework\obj\Debug\GameFramework.pdb

@@ -1,0 +1,8 @@
+C:\Users\YY\Downloads\gameofmir\NetFramework\bin\Debug\NetFramework.dll
+C:\Users\YY\Downloads\gameofmir\NetFramework\bin\Debug\NetFramework.pdb
+C:\Users\YY\Downloads\gameofmir\NetFramework\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\YY\Downloads\gameofmir\NetFramework\obj\Debug\NetFramework.Properties.Resources.resources
+C:\Users\YY\Downloads\gameofmir\NetFramework\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\YY\Downloads\gameofmir\NetFramework\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\YY\Downloads\gameofmir\NetFramework\obj\Debug\NetFramework.dll
+C:\Users\YY\Downloads\gameofmir\NetFramework\obj\Debug\NetFramework.pdb

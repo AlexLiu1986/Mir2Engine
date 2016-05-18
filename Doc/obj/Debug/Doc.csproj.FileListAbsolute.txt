@@ -1,0 +1,5 @@
+C:\Users\YY\Downloads\gameofmir\Doc\bin\Debug\Doc.dll
+C:\Users\YY\Downloads\gameofmir\Doc\bin\Debug\Doc.pdb
+C:\Users\YY\Downloads\gameofmir\Doc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\YY\Downloads\gameofmir\Doc\obj\Debug\Doc.dll
+C:\Users\YY\Downloads\gameofmir\Doc\obj\Debug\Doc.pdb

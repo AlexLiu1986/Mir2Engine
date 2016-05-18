@@ -1,0 +1,11 @@
+C:\Users\YY\Downloads\gameofmir\TestProject\bin\Debug\Config\DB.connection
+C:\Users\YY\Downloads\gameofmir\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\YY\Downloads\gameofmir\TestProject\bin\Debug\TestProject.exe
+C:\Users\YY\Downloads\gameofmir\TestProject\bin\Debug\TestProject.pdb
+C:\Users\YY\Downloads\gameofmir\TestProject\bin\Debug\GameFramework.dll
+C:\Users\YY\Downloads\gameofmir\TestProject\bin\Debug\NetFramework.dll
+C:\Users\YY\Downloads\gameofmir\TestProject\bin\Debug\GameFramework.pdb
+C:\Users\YY\Downloads\gameofmir\TestProject\bin\Debug\NetFramework.pdb
+C:\Users\YY\Downloads\gameofmir\TestProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\YY\Downloads\gameofmir\TestProject\obj\x86\Debug\TestProject.exe
+C:\Users\YY\Downloads\gameofmir\TestProject\obj\x86\Debug\TestProject.pdb
